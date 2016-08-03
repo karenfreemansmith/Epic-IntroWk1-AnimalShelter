@@ -1,0 +1,29 @@
+.pet {
+  width: 25%;
+  float: left;
+}
+
+.row {
+  width: 90%;
+  margin: auto;
+}
+.clearfix {
+  clear:both;
+}
+
+nav li {
+  display: inline-block;
+  width: 24%;
+  font-size: 2em;
+  text-align: center;
+}
+
+nav li a {
+  color: red;
+  text-decoration: none;
+}
+
+nav li a:hover{
+  color: blue;
+  text-decoration:underline;
+}
