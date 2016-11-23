@@ -1,18 +1,19 @@
-# :cat: [Cupcake Shoppe](http://karenfreemansmith.github.io/lostcauses) :dog:
+# Lost Causes Animal Shelter
+Version 0.0.1: August 3, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io) and [Addison Nishijima](https://github.com/AddisonNishijima)
 
-__Version 1.0.0: August 3, 2016__
-#### by [Karen Freeman-Smith](http://karenfreemansmith.github.io) and [Addison Nishijima](https://github.com/AddisonNishijima)
+### Technologies Used
+HTML, CSS, Git, Github
 
-### Description
-__*animal shelter website to practice page layout and media queries.*__
+![screenshot of project running](screenshot.png)
 
-## Technologies Used
-HTML, CSS
+## Description
+*[Epicodus](http://epicodus.com) Intro to Programming Week 1 Pair Project with Addison Nishijima: Design a website for an animal shelter to practice using CSS page layout and media queries.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk1-AnimalShelter)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
